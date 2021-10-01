@@ -1,0 +1,16 @@
+C:\Users\hiury\OneDrive\Documentos\CURSOS DIVERSOS\CURSO C# NELO ALVES - UDEMY\CURSO C# COMPLETO\ExerciciosCursoCompleto C#\ExercicioAluno\ExercicioAluno\bin\Debug\net5.0\ExercicioAluno.exe
+C:\Users\hiury\OneDrive\Documentos\CURSOS DIVERSOS\CURSO C# NELO ALVES - UDEMY\CURSO C# COMPLETO\ExerciciosCursoCompleto C#\ExercicioAluno\ExercicioAluno\bin\Debug\net5.0\ExercicioAluno.deps.json
+C:\Users\hiury\OneDrive\Documentos\CURSOS DIVERSOS\CURSO C# NELO ALVES - UDEMY\CURSO C# COMPLETO\ExerciciosCursoCompleto C#\ExercicioAluno\ExercicioAluno\bin\Debug\net5.0\ExercicioAluno.runtimeconfig.json
+C:\Users\hiury\OneDrive\Documentos\CURSOS DIVERSOS\CURSO C# NELO ALVES - UDEMY\CURSO C# COMPLETO\ExerciciosCursoCompleto C#\ExercicioAluno\ExercicioAluno\bin\Debug\net5.0\ExercicioAluno.runtimeconfig.dev.json
+C:\Users\hiury\OneDrive\Documentos\CURSOS DIVERSOS\CURSO C# NELO ALVES - UDEMY\CURSO C# COMPLETO\ExerciciosCursoCompleto C#\ExercicioAluno\ExercicioAluno\bin\Debug\net5.0\ExercicioAluno.dll
+C:\Users\hiury\OneDrive\Documentos\CURSOS DIVERSOS\CURSO C# NELO ALVES - UDEMY\CURSO C# COMPLETO\ExerciciosCursoCompleto C#\ExercicioAluno\ExercicioAluno\bin\Debug\net5.0\ref\ExercicioAluno.dll
+C:\Users\hiury\OneDrive\Documentos\CURSOS DIVERSOS\CURSO C# NELO ALVES - UDEMY\CURSO C# COMPLETO\ExerciciosCursoCompleto C#\ExercicioAluno\ExercicioAluno\bin\Debug\net5.0\ExercicioAluno.pdb
+C:\Users\hiury\OneDrive\Documentos\CURSOS DIVERSOS\CURSO C# NELO ALVES - UDEMY\CURSO C# COMPLETO\ExerciciosCursoCompleto C#\ExercicioAluno\ExercicioAluno\obj\Debug\net5.0\ExercicioAluno.csproj.AssemblyReference.cache
+C:\Users\hiury\OneDrive\Documentos\CURSOS DIVERSOS\CURSO C# NELO ALVES - UDEMY\CURSO C# COMPLETO\ExerciciosCursoCompleto C#\ExercicioAluno\ExercicioAluno\obj\Debug\net5.0\ExercicioAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiury\OneDrive\Documentos\CURSOS DIVERSOS\CURSO C# NELO ALVES - UDEMY\CURSO C# COMPLETO\ExerciciosCursoCompleto C#\ExercicioAluno\ExercicioAluno\obj\Debug\net5.0\ExercicioAluno.AssemblyInfoInputs.cache
+C:\Users\hiury\OneDrive\Documentos\CURSOS DIVERSOS\CURSO C# NELO ALVES - UDEMY\CURSO C# COMPLETO\ExerciciosCursoCompleto C#\ExercicioAluno\ExercicioAluno\obj\Debug\net5.0\ExercicioAluno.AssemblyInfo.cs
+C:\Users\hiury\OneDrive\Documentos\CURSOS DIVERSOS\CURSO C# NELO ALVES - UDEMY\CURSO C# COMPLETO\ExerciciosCursoCompleto C#\ExercicioAluno\ExercicioAluno\obj\Debug\net5.0\ExercicioAluno.csproj.CoreCompileInputs.cache
+C:\Users\hiury\OneDrive\Documentos\CURSOS DIVERSOS\CURSO C# NELO ALVES - UDEMY\CURSO C# COMPLETO\ExerciciosCursoCompleto C#\ExercicioAluno\ExercicioAluno\obj\Debug\net5.0\ExercicioAluno.dll
+C:\Users\hiury\OneDrive\Documentos\CURSOS DIVERSOS\CURSO C# NELO ALVES - UDEMY\CURSO C# COMPLETO\ExerciciosCursoCompleto C#\ExercicioAluno\ExercicioAluno\obj\Debug\net5.0\ref\ExercicioAluno.dll
+C:\Users\hiury\OneDrive\Documentos\CURSOS DIVERSOS\CURSO C# NELO ALVES - UDEMY\CURSO C# COMPLETO\ExerciciosCursoCompleto C#\ExercicioAluno\ExercicioAluno\obj\Debug\net5.0\ExercicioAluno.pdb
+C:\Users\hiury\OneDrive\Documentos\CURSOS DIVERSOS\CURSO C# NELO ALVES - UDEMY\CURSO C# COMPLETO\ExerciciosCursoCompleto C#\ExercicioAluno\ExercicioAluno\obj\Debug\net5.0\ExercicioAluno.genruntimeconfig.cache
